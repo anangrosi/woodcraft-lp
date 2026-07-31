@@ -1,0 +1,23 @@
+{
+  "name": "hacktive",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "wood craft",
+    "wood"
+  ],
+  "author": "anangrosis",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^2.13.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "multer": "^2.2.0"
+  }
+}
